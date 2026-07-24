@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Explainable AI Sandbox",
+  "description": "Clinical Explainable AI workbench integrating Random Forest SHAP/LIME diagnostics with T1DM nutrition-aware multi-horizon blood glucose forecasting architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
